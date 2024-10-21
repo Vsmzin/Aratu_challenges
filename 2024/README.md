@@ -6,4 +6,4 @@ Informações sobre o evento:
 ## Writeup dos Desafios
 
 - **Osen**, **HERE-G0-AGAIN** e **unixer**:
-  [Assista aos writeups no YouTube](https://www.youtube.com/@Vsm-z8d)
+  [Writeups Videos](https://www.youtube.com/@Vsm-z8d)
