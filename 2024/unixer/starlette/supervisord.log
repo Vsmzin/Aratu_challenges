@@ -1,0 +1,89 @@
+2024-09-27 06:02:33,515 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-27 06:02:33,517 INFO supervisord started with pid 1
+2024-09-27 06:02:34,522 INFO spawned: 'node_app' with pid 7
+2024-09-27 06:02:34,526 INFO spawned: 'starlette' with pid 8
+2024-09-27 06:02:34,586 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:02:34,677 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:02:35,682 INFO spawned: 'node_app' with pid 15
+2024-09-27 06:02:35,687 INFO spawned: 'starlette' with pid 16
+2024-09-27 06:02:35,714 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:02:35,798 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:02:37,805 INFO spawned: 'node_app' with pid 23
+2024-09-27 06:02:37,809 INFO spawned: 'starlette' with pid 24
+2024-09-27 06:02:37,868 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:02:37,957 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:02:39,960 WARN received SIGTERM indicating exit request
+2024-09-27 06:02:39,960 INFO waiting for node_app to die
+2024-09-27 06:03:17,008 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-27 06:03:17,009 INFO supervisord started with pid 1
+2024-09-27 06:03:18,013 INFO spawned: 'node' with pid 7
+2024-09-27 06:03:18,018 INFO spawned: 'uvicorn' with pid 8
+2024-09-27 06:03:18,156 WARN exited: uvicorn (exit status 1; not expected)
+2024-09-27 06:03:18,357 WARN exited: node (exit status 1; not expected)
+2024-09-27 06:03:19,358 INFO spawned: 'node' with pid 27
+2024-09-27 06:03:19,360 INFO spawned: 'uvicorn' with pid 28
+2024-09-27 06:03:19,489 WARN exited: uvicorn (exit status 1; not expected)
+2024-09-27 06:03:19,688 WARN exited: node (exit status 1; not expected)
+2024-09-27 06:03:21,694 INFO spawned: 'node' with pid 47
+2024-09-27 06:03:21,696 INFO spawned: 'uvicorn' with pid 48
+2024-09-27 06:03:21,815 WARN exited: uvicorn (exit status 1; not expected)
+2024-09-27 06:03:22,009 WARN exited: node (exit status 1; not expected)
+2024-09-27 06:03:23,010 WARN received SIGTERM indicating exit request
+2024-09-27 06:03:23,010 INFO waiting for node to die
+2024-09-27 06:06:03,776 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-27 06:06:03,777 INFO supervisord started with pid 1
+2024-09-27 06:06:04,782 INFO spawned: 'node_app' with pid 7
+2024-09-27 06:06:04,787 INFO spawned: 'starlette' with pid 8
+2024-09-27 06:06:04,848 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:06:04,940 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:06:05,942 INFO spawned: 'node_app' with pid 15
+2024-09-27 06:06:05,943 INFO spawned: 'starlette' with pid 16
+2024-09-27 06:06:05,969 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:06:06,056 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:06:08,060 INFO spawned: 'node_app' with pid 23
+2024-09-27 06:06:08,064 INFO spawned: 'starlette' with pid 24
+2024-09-27 06:06:08,091 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:06:08,183 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:06:11,188 INFO spawned: 'node_app' with pid 31
+2024-09-27 06:06:11,193 INFO spawned: 'starlette' with pid 32
+2024-09-27 06:06:11,252 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:06:11,330 INFO gave up: node_app entered FATAL state, too many start retries too quickly
+2024-09-27 06:06:11,342 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:06:12,342 INFO gave up: starlette entered FATAL state, too many start retries too quickly
+2024-09-27 06:07:30,597 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-27 06:07:30,598 INFO supervisord started with pid 1
+2024-09-27 06:07:31,600 INFO spawned: 'node_app' with pid 7
+2024-09-27 06:07:31,602 INFO spawned: 'starlette' with pid 8
+2024-09-27 06:07:31,629 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:07:31,718 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:07:32,721 INFO spawned: 'node_app' with pid 15
+2024-09-27 06:07:32,726 INFO spawned: 'starlette' with pid 16
+2024-09-27 06:07:32,786 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:07:32,873 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:07:34,876 INFO spawned: 'node_app' with pid 23
+2024-09-27 06:07:34,878 INFO spawned: 'starlette' with pid 24
+2024-09-27 06:07:34,904 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:07:34,993 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:07:37,999 INFO spawned: 'node_app' with pid 31
+2024-09-27 06:07:38,004 INFO spawned: 'starlette' with pid 32
+2024-09-27 06:07:38,061 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:07:38,139 INFO gave up: node_app entered FATAL state, too many start retries too quickly
+2024-09-27 06:07:38,151 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:07:39,152 INFO gave up: starlette entered FATAL state, too many start retries too quickly
+2024-09-27 06:08:37,212 WARN received SIGTERM indicating exit request
+2024-09-27 06:17:01,137 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-27 06:17:01,139 INFO supervisord started with pid 1
+2024-09-27 06:17:02,144 INFO spawned: 'node_app' with pid 7
+2024-09-27 06:17:02,146 INFO spawned: 'starlette' with pid 8
+2024-09-27 06:17:02,173 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:17:02,262 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:17:03,267 INFO spawned: 'node_app' with pid 15
+2024-09-27 06:17:03,271 INFO spawned: 'starlette' with pid 16
+2024-09-27 06:17:03,299 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:17:03,384 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:17:05,390 INFO spawned: 'node_app' with pid 23
+2024-09-27 06:17:05,394 INFO spawned: 'starlette' with pid 24
+2024-09-27 06:17:05,422 WARN exited: node_app (exit status 1; not expected)
+2024-09-27 06:17:05,508 WARN exited: starlette (exit status 1; not expected)
+2024-09-27 06:17:07,510 WARN received SIGINT indicating exit request
+2024-09-27 06:17:07,511 INFO waiting for node_app to die
